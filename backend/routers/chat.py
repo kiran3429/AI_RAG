@@ -1,7 +1,7 @@
 from fastapi import APIRouter
 from pydantic import BaseModel
 
-from rag_types.Basic_rag.rag import answer_question
+from rag_types.basic_rag.rag import answer_question
 
 router = APIRouter()
 
