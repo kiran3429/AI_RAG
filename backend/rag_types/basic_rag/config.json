@@ -1,0 +1,29 @@
+{
+    "id":"basic_rag",
+
+    "name":"Basic RAG",
+
+    "description":"Simple Dense Retrieval using FAISS",
+
+    "version":"1.0",
+
+    "workspace":"Basic_RAG",
+
+    "supports_memory":true,
+
+    "supports_images":false,
+
+    "supports_tables":false,
+
+    "deployment":"free",
+
+    "best_for":[
+
+        "Small datasets",
+
+        "Fast prototyping",
+
+        "Low hallucination"
+
+    ]
+}
