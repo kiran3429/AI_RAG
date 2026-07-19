@@ -1,0 +1,14 @@
+.venv
+.git
+.gitignore
+__pycache__/
+*.pyc
+
+frontend/
+
+backend/uploads/
+backend/vectorstores/
+
+.env
+
+.vscode/
