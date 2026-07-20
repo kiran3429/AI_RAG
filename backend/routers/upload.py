@@ -2,7 +2,7 @@ from fastapi import APIRouter, UploadFile, File
 import shutil
 import os
 
-from rag_types.basic_rag.rag import create_vectorstore
+from services.vector_store import create_vectorstore
 
 router = APIRouter()
 

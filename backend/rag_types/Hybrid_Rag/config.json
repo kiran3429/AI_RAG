@@ -1,0 +1,29 @@
+{
+    "id":"Hybrid_RAG",
+
+    "name":"Hybrid RAG",
+
+    "description":"This type of rag makes a llm call to the questions present outside your document and can answere it",
+
+    "version":"1.0",
+
+    "workspace":"Hybrid_RAG",
+
+    "supports_memory":true,
+
+    "supports_images":false,
+
+    "supports_tables":false,
+
+    "deployment":"free",
+
+    "best_for":[
+
+        "Small datasets",
+
+        "Good for a general purpose",
+
+        "Can hallucinate based on the deviation of the question from the actual pool of document"
+
+    ]
+}
